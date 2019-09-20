@@ -1,0 +1,3 @@
+#work,WorkManager1,Cluster-0:Cluster
+min,,MinThreadConstraints12,4,dum06:Server|Cluster-0:Cluster
+max,,MaxThreadConstraints12,4,dum06:Server|Cluster-0:Cluster
